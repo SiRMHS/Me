@@ -36,13 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sirmhs/sirmhs/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="center">😌U can find me in :</h3>
 
